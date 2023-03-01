@@ -1,0 +1,15 @@
+{
+  "name": "ufo_hunter",
+  "version": "0.0.1",
+  "repository": "https://github.com/ddanmuji/ufo_hunter",
+  "author": "여찬규 <cgyeo5533@gmail.com>",
+  "private": true,
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {},
+  "devDependencies": {
+    "prettier": "^2.8.4",
+    "stylelint": "^15.2.0",
+    "stylelint-config-prettier": "^9.0.5",
+    "stylelint-prettier": "^3.0.0"
+  }
+}
