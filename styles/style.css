@@ -1,4 +1,12 @@
-.ufo_canvas {
-  border: 1px solid royalblue;
+body {
   background-image: url('/images/background.jpg');
+  background-repeat: repeat;
+}
+
+.ufo_canvas {
+  background-image: url('/images/field-background.jpg');
+  background-size: 100% 100%;
+  border: 1px solid #000000;
+  margin: 0 auto;
+  display: block;
 }
